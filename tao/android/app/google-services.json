@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "17411710026",
+    "project_id": "tao-app-c938e",
+    "storage_bucket": "tao-app-c938e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17411710026:android:b2a6cd1d508dd78ccb1ab3",
+        "android_client_info": {
+          "package_name": "com.yehiaaudio.tao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17411710026-b4fipontolq2aepkvjnrtoed73kuppc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yehiaaudio.tao",
+            "certificate_hash": "aa97a23294d6099bad613d8d9e3b4b1510ecdc9d"
+          }
+        },
+        {
+          "client_id": "17411710026-n805la3squ4pmutpp3jdn0ee8v65ku21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAirb24SDts7pPyysLcY9rOOCottu0nzDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17411710026-n805la3squ4pmutpp3jdn0ee8v65ku21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
